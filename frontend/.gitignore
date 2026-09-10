@@ -8,3 +8,4 @@ dist/
 # self-hosted and accounted for rather than pulled at build time.
 !public/fonts/
 .vercel
+.env*
