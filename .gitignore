@@ -34,7 +34,7 @@ artifacts/demo/defend_scored_test_set.csv
 artifacts/serving/
 .vercel
 
-# Media, pitch video, audio, and temporary scratch artifacts
+# Media, pitch video, audio, and temporary submission build artifacts
 *.mp4
 *.aiff
 *.mp3
@@ -42,6 +42,11 @@ artifacts/serving/
 *.avi
 *.mov
 *.webm
+*.pptx
+*.pdf
+Sentinel_YEL_Build_Bank_2026_Demo_Script.txt
 scratch/
 video_builder/
-
+scripts/demo_video/
+temp_audio/
+temp_frames/
